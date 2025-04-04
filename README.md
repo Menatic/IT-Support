@@ -13,7 +13,7 @@ An AI-powered IT support platform designed to streamline issue resolution using 
   Get instant help from an AI assistant trained on IT support queries.
 - **📈 Analytics Dashboard**  
   Monitor KPIs like resolution time, ticket volume, and agent performance.
-- ** To View this App**
+- **To View this App**
 https://replit.com/@bhouvana/ITSupportGenius?v=1
 
 ![image](https://github.com/user-attachments/assets/6224773c-95c6-4484-ba52-20b27e28f6d3)
