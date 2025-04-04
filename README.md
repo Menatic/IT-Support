@@ -1,4 +1,21 @@
-# IT-Support
+# IT Support AIOps Platform 🛠️🤖
+
+An AI-powered IT support platform designed to streamline issue resolution using **Gemini AI**, featuring intelligent ticketing, log analysis, chatbots, and analytics.
+
+![Demo Screenshot](demo.png) *(Replace with an actual screenshot of your app)*
+
+## ✨ Features
+- **🔍 Intelligent Ticketing System**  
+  Create, track, and resolve support tickets efficiently.
+- **📊 AI Log Analysis**  
+  Automatically detect anomalies in system logs using Gemini AI.
+- **💬 AI Support Chatbot**  
+  Get instant help from an AI assistant trained on IT support queries.
+- **📈 Analytics Dashboard**  
+  Monitor KPIs like resolution time, ticket volume, and agent performance.
+- ** To View this App**
+https://replit.com/@bhouvana/ITSupportGenius?v=1
+
 ![image](https://github.com/user-attachments/assets/6224773c-95c6-4484-ba52-20b27e28f6d3)
 ![image](https://github.com/user-attachments/assets/ea7f47a3-393e-4985-bb9d-dbf959abc5ca)
 ![image](https://github.com/user-attachments/assets/fd4efbd2-8e36-45f2-be05-6c0b4c0879dc)
