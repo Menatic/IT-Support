@@ -2,8 +2,6 @@
 
 An AI-powered IT support platform designed to streamline issue resolution using **Gemini AI**, featuring intelligent ticketing, log analysis, chatbots, and analytics.
 
-![Demo Screenshot](demo.png) *(Replace with an actual screenshot of your app)*
-
 ## ✨ Features
 - **🔍 Intelligent Ticketing System**  
   Create, track, and resolve support tickets efficiently.
